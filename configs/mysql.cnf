@@ -1,0 +1,7 @@
+[mysql]
+user=user
+password=user
+
+[client]
+user=user
+password=user
